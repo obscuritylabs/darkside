@@ -1,0 +1,2 @@
+# darkside
+Darkside Ransomware
