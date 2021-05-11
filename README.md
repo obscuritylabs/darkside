@@ -1,7 +1,7 @@
 # darkside
 Darkside Ransomware
 
-Caution: This is malware...real ransomware that can destroy your system. Download at your own risk. We are not responsbile for what you do with this file
+Caution: This is malware, real ransomware that can destroy your system. Download at your own risk. We are not responsbile for what you do with this file.
 
 | Filename | MD5 Hash                         | SHA1 Hash                                | SHA256 Hash                                                  | VirusTotal                                                   |
 | -------- | -------------------------------- | ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
